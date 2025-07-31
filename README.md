@@ -70,4 +70,4 @@ APK 被标记为病毒的原因主要有以下几点：
 
 *   **[VirusTotal](https://www.virustotal.com/)：**  Google、Facebook 等公司较为信赖的网站。一旦被 VirusTotal 检测出病毒，在国外推广将面临较大困难。
 *   **腾讯安全实验室：** [https://m.qq.com/security_lab/](https://m.qq.com/security_lab/)（需要登录）
-##  Telegram 个人交流： @apk_88480
+##  Telegram 个人交流： @apk8828
